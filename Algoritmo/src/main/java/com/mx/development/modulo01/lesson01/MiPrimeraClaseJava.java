@@ -1,6 +1,4 @@
-package com.mx.development.lesson01;
-
-import com.mx.development.lesson13.ClaseEjemplo;
+package com.mx.development.modulo01.lesson01;
 
 public class MiPrimeraClaseJava {
 

@@ -1,4 +1,4 @@
-package com.mx.development.lesson02;
+package com.mx.development.modulo01.lesson02;
 
 public class ParseExample {
     public static void main(String[] args) {

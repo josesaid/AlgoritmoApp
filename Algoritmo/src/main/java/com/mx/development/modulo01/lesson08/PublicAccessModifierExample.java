@@ -1,6 +1,7 @@
-package com.mx.development.lessons08;
+package com.mx.development.modulo01.lesson08;
 
-import com.mx.development.lesson02.Memoria;
+
+import com.mx.development.modulo01.lesson02.Memoria;
 
 public class PublicAccessModifierExample {
     public static void main(String[] args) {

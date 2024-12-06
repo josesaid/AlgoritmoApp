@@ -1,4 +1,4 @@
-package com.mx.development.lesson03;
+package com.mx.development.modulo01.lesson03;
 
 public class BooleanExample {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.mx.development.lesson06;
+package com.mx.development.modulo01.lesson06;
 
 public class ReassigmentArrayExample01 {
     public static void main(String[] args) {
